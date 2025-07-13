@@ -1,0 +1,16 @@
+
+
+[org.mate.Marco.general]
+theme='Orchis-Red-Dark'
+
+
+[org.mate.interface]
+gtk-theme='Orchis-Red-Dark'
+icon-theme='Citrus-red-dark'
+#icon-theme='Numix-Circle'
+
+
+[org.mate.peripherals-mouse]
+cursor-theme='breeze_cursors'
+cursor-size=24
+
